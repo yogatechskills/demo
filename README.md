@@ -9,3 +9,7 @@ Update in stage!
 More update in working directory
 Again adding in working directory
 Working directory again
+#############################
+Reset and reflog
+#######################
+Added something
