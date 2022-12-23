@@ -13,3 +13,6 @@ Working directory again
 Reset and reflog
 #######################
 Added something
+
+
+Edit on example branch
