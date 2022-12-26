@@ -23,5 +23,3 @@ __Yes, now updating the README.md file from the update-branch__
 
 Updated locally
 rebase
-=======
->>>>>>> 6f977cfe688b0c4db99ed942a5cb1afae8cc907e
